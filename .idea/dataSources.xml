@@ -4,19 +4,19 @@
     <data-source source="LOCAL" name="Rails wikiful: development" uuid="eab5fda6-f351-419f-a535-2fb3c9f93a3b">
       <driver-ref>sqlite.xerial</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql:db/development.sqlite3</jdbc-url>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/wikiful_development</jdbc-url>
       <libraries />
     </data-source>
     <data-source source="LOCAL" name="Rails wikiful: test" uuid="16e42de5-6dca-4e8c-92da-9da68780bec0">
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql:db/test.sqlite3</jdbc-url>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/wikiful_test</jdbc-url>
       <libraries />
     </data-source>
     <data-source source="LOCAL" name="Rails wikiful: production" uuid="fe6f36d2-dabb-4a11-8fc8-6f3336c2dbc6">
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql:db/production.sqlite3</jdbc-url>
+      <jdbc-url>jdbc:postgresql:wikiful_production</jdbc-url>
       <libraries />
     </data-source>
   </component>
