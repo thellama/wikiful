@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails wikiful: development" uuid="eab5fda6-f351-419f-a535-2fb3c9f93a3b">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails wikiful: test" uuid="16e42de5-6dca-4e8c-92da-9da68780bec0">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails wikiful: production" uuid="fe6f36d2-dabb-4a11-8fc8-6f3336c2dbc6">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
