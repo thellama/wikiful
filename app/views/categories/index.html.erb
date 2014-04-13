@@ -1,0 +1,9 @@
+<h1>Wikiful Categories</h1>
+<h3>Click the categories. See what happens.</h3>
+<ul>
+    <% @categories.each do |category| %>
+        <h4>>
+            <h3><%= link_to category.name, category  %></h3>
+        </h4>>
+    <% end %>
+<ul>
