@@ -27,6 +27,10 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring',        group: :development
 
 gem 'faker'
+# Generates random text segments
+gem 'twitter-bootstrap-rails'
+gem 'less-rails'
+gem 'therubyracer'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
